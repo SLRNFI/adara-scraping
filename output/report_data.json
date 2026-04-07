@@ -1,0 +1,1252 @@
+{
+  "overall": {
+    "total_items_analyzed": 434,
+    "avg_polarity": 0.208,
+    "avg_subjectivity": 0.317,
+    "sentiment_distribution": {
+      "neutral": 96,
+      "positive": 335,
+      "negative": 3
+    },
+    "brand_signal_frequency": {
+      "venture_capital": 309,
+      "deep_tech": 215,
+      "europe_focus": 158,
+      "team_leadership": 114,
+      "track_record": 41,
+      "reputation": 12
+    }
+  },
+  "by_source": {
+    "google_search": {
+      "total_items": 261,
+      "avg_polarity": 0.207,
+      "avg_subjectivity": 0.315,
+      "sentiment_distribution": {
+        "neutral": 56,
+        "positive": 202,
+        "negative": 3
+      },
+      "top_brand_signals": {
+        "venture_capital": 182,
+        "deep_tech": 122,
+        "europe_focus": 95,
+        "team_leadership": 75,
+        "track_record": 29,
+        "reputation": 5
+      }
+    },
+    "google_news": {
+      "total_items": 86,
+      "avg_polarity": 0.23,
+      "avg_subjectivity": 0.376,
+      "sentiment_distribution": {
+        "neutral": 11,
+        "positive": 75
+      },
+      "top_brand_signals": {
+        "venture_capital": 72,
+        "deep_tech": 52,
+        "europe_focus": 45,
+        "team_leadership": 17,
+        "track_record": 7,
+        "reputation": 2
+      }
+    },
+    "twitter": {
+      "total_items": 39,
+      "avg_polarity": 0.256,
+      "avg_subjectivity": 0.326,
+      "sentiment_distribution": {
+        "positive": 38,
+        "neutral": 1
+      },
+      "top_brand_signals": {
+        "venture_capital": 36,
+        "deep_tech": 27,
+        "europe_focus": 8,
+        "team_leadership": 3,
+        "track_record": 2,
+        "reputation": 2
+      }
+    },
+    "linkedin": {
+      "total_items": 22,
+      "avg_polarity": 0.288,
+      "avg_subjectivity": 0.459,
+      "sentiment_distribution": {
+        "positive": 20,
+        "neutral": 2
+      },
+      "top_brand_signals": {
+        "venture_capital": 19,
+        "team_leadership": 19,
+        "deep_tech": 14,
+        "europe_focus": 10,
+        "track_record": 3,
+        "reputation": 3
+      }
+    },
+    "web_content": {
+      "total_items": 26,
+      "avg_polarity": 0.0,
+      "avg_subjectivity": 0.0,
+      "sentiment_distribution": {
+        "neutral": 26
+      },
+      "top_brand_signals": {}
+    }
+  },
+  "most_positive": [
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2025",
+      "url": "https://www.adara.vc/news/year-in-review-2025",
+      "description": "As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2025",
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-year-in-review-2025-activity-7407794860151287808-kKft",
+      "description": "As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2025",
+      "url": "https://www.adara.vc/news/year-in-review-2025",
+      "description": "As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2025",
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-year-in-review-2025-activity-7407794860151287808-kKft",
+      "description": "As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 0.3,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "seed"
+        ],
+        "team_leadership": [
+          "team"
+        ],
+        "reputation": [
+          "best"
+        ]
+      },
+      "title": "Ross Strachan - Strengthening the Adara Ventures team",
+      "url": "https://www.linkedin.com/posts/strachanross_strengthening-the-adara-ventures-team-promotions-activity-7175404728774737920-VOJV",
+      "description": "As our friends at Seedtag like to say - \"The best is yet to come\"! View organization page for Adara Ventures · Adara Ventures. 12,850 followers.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 0.3,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "europe_focus": [
+          "spain"
+        ],
+        "venture_capital": [
+          "venture capital"
+        ],
+        "reputation": [
+          "best",
+          "award"
+        ]
+      },
+      "title": "#ai | Adara Ventures | 15 comments",
+      "url": "https://www.linkedin.com/posts/adaravc_ai-activity-7104762855882657793-M4xp",
+      "description": "We are honored to announce that Adara Ventures received the award for 'Best Venture Capital Deal' at this year's SpainCap Awards for the ..."
+    },
+    {
+      "source": "google_news",
+      "sentiment": {
+        "polarity": 1.0,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2025",
+      "url": "https://www.adara.vc/news/year-in-review-2025",
+      "description": "As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.875,
+        "subjectivity": 0.85,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ]
+      },
+      "title": "Richard Rays Kyorakunde (@RaysRichard) / Posts ...",
+      "url": "https://x.com/RaysRichard",
+      "description": "Fascinating to see Adara Ventures Energy I kicking off with €35M from EIF! The focus on raising €120M and the involvement of Redeia (Elewit) and Grupo Dunas ...Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.8,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "track_record": [
+          "acquisition"
+        ]
+      },
+      "title": "Guillermo Ramos (@Venturatis) / Posts / X",
+      "url": "https://x.com/Venturatis",
+      "description": "Adara Ventures profile. Adara Ventures. AdaraVentures. Oct 4. Proud to see @JulioCasa4iQ tell the story of @alienvault after their acquisition by @ATTBusiness ...Read more"
+    },
+    {
+      "source": "google_news",
+      "sentiment": {
+        "polarity": 0.8,
+        "subjectivity": 1.0,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "VC"
+        ]
+      },
+      "title": "Adara Ventures Joins NVIDIA's Inception VC Alliance",
+      "url": "https://www.adara.vc/news/adara-ventures-joins-nvidias-inception-vc-alliance",
+      "description": "Adara Ventures Joins NVIDIA's Inception VC Alliance. We proudly announce our acceptance into the NVIDIA Inception VC Alliance, a program that ...Read more"
+    }
+  ],
+  "most_negative": [
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": -0.125,
+        "subjectivity": 0.325,
+        "label": "negative"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures: Year in Review 2023",
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-year-in-review-2023-activity-7143917571698855936-aAdw",
+      "description": "As we head into 2024, we want to reflect on the past year at Adara Ventures. Despite complex market conditions, we continued backing the ..."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": -0.05,
+        "subjectivity": 0.4,
+        "label": "negative"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "round"
+        ]
+      },
+      "title": "Adara Ventures' Post",
+      "url": "https://www.linkedin.com/posts/adaravc_were-excited-to-announce-our-investment-activity-7442502885084590080-OCm-",
+      "description": "Adara Ventures led the €2M round, with participation from Armilar ... Adara Ventures' Post. View organization page for Adara Ventures.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": -0.05,
+        "subjectivity": 0.4,
+        "label": "negative"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "seed",
+          "round"
+        ]
+      },
+      "title": "Adara Ventures' Post",
+      "url": "https://www.linkedin.com/posts/adaravc_enterprisesoftware-ai-technicaldebt-activity-7424775901797576704-bj2G",
+      "description": "Adara Ventures co-led AppFactor's €4m Seed round, alongside Tensor ... Adara Ventures' Post. View organization page for Adara Ventures.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ]
+      },
+      "title": "ADARA VENTURES - We help create a path",
+      "url": "https://www.adara.vc/",
+      "description": "© Adara Ventures 2026 ... Something went wrong while submitting the form. ESG ·GDPR ·Privacy ·Cookies ·Disclaimer ·Contact us · Cumplimiento Normativo. © Adara ..."
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.4,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU",
+          "madrid"
+        ],
+        "venture_capital": [
+          "investment",
+          "early-stage"
+        ]
+      },
+      "title": "Adara Ventures | Institution Profile",
+      "url": "https://www.privateequityinternational.com/institution-profiles/adara-ventures.html",
+      "description": "Founded in 2005, Adara Ventures is a Madrid-headquartered investment firm that focuses on early-stage investments in European-founded companies.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "label": "neutral"
+      },
+      "brand_signals": {},
+      "title": "Adara Ventures III S.C.A. SICAR",
+      "url": "https://www.cofides.es/en/que-hacemos/casos-cofides/adara-ventures-iii-sca-sicar",
+      "description": "Adara Ventures staff. (Alberto Gómez fifth from left) Adara engages with the companies in which it participates, but does not interfere with routine ...Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ]
+      },
+      "title": "ADARA VENTURES - We help create a path",
+      "url": "https://www.adara.vc/",
+      "description": "Something went wrong while submitting the form. ESG ·GDPR ·Privacy ·Cookies ·Disclaimer ·Contact us · Cumplimiento Normativo. © Adara Ventures 2026.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.75,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI",
+          "artificial intelligence",
+          "cybersecurity"
+        ],
+        "team_leadership": [
+          "partner"
+        ]
+      },
+      "title": "Adara Ventures III S.C.A. SICAR",
+      "url": "https://www.cofides.es/en/que-hacemos/casos-cofides/adara-ventures-iii-sca-sicar",
+      "description": "Alberto Gómez, one of the Adara Ventures partners, explains that the category includes sectors such as cybersecurity, applied artificial intelligence, cloud ...Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ]
+      },
+      "title": "ADARA VENTURES - We help create a path",
+      "url": "https://www.adara.vc/",
+      "description": "Something went wrong while submitting the form. ESG ·GDPR ·Privacy ·Cookies ·Disclaimer ·Contact us · Cumplimiento Normativo. © Adara Ventures 2026.Read more"
+    },
+    {
+      "source": "google_search",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "label": "neutral"
+      },
+      "brand_signals": {
+        "europe_focus": [
+          "europe",
+          "EU"
+        ],
+        "reputation": [
+          "leading"
+        ]
+      },
+      "title": "Figures x Adara Ventures",
+      "url": "https://figures.hr/lp-partnerships/adara-ventures",
+      "description": "Adara Ventures. The all-in-one compensation management platform. Figures is Europe's leading compensation management platform, helping mid‑market companies ...Read more"
+    }
+  ],
+  "top_twitter_engagement": [
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.3,
+        "subjectivity": 0.475,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI",
+          "artificial intelligence"
+        ],
+        "venture_capital": [
+          "fund",
+          "startup",
+          "seed",
+          "round"
+        ]
+      },
+      "text": "📣 @wodan_secure_ai, a startup specialised in running artificial intelligence models directly on fully encrypted data, has closed a €2 million pre-seed round led by @JME_Ventures , @Swanlaab and @AdaraVentures, with additional participation from Scale Fund.",
+      "user": "samuelgil",
+      "user_name": "Samuel Gil",
+      "date": "Thu Dec 18 08:49:59 +0000 2025",
+      "like_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 1216,
+      "engagement": 3,
+      "url": "https://x.com/samuelgil/status/2001575660116943218"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.26,
+        "subjectivity": 0.56,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "fund",
+          "investment",
+          "seed",
+          "growth",
+          "funding",
+          "round"
+        ],
+        "team_leadership": [
+          "partner"
+        ],
+        "reputation": [
+          "leading"
+        ]
+      },
+      "text": "📢 We’re pleased to announce our latest investment in Kimera Technologies, leading their €2M+ seed funding round and deepening our partnership with the company as it enters its next phase of growth. 🚀\n\nLearn more: https://t.co/M3GGrzcmRp https://t.co/bmO8XSYC1j",
+      "user": "AdaraVentures",
+      "user_name": "Adara Ventures",
+      "date": "Mon Dec 15 11:11:52 +0000 2025",
+      "like_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 99,
+      "engagement": 4,
+      "url": "https://x.com/AdaraVentures/status/2000524203615797610"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.284,
+        "subjectivity": 0.489,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "VC",
+          "startup"
+        ],
+        "team_leadership": [
+          "partner"
+        ]
+      },
+      "text": "🔥 Day 2 of Open Office Hours at #VDS2025!\n\nMore than 290 meetings across both days between over 170 startups and 30 investors including @AdaraVentures, @bonsaipartners, @Dozeninvest, @LUMO_Labs, @DemiumStartups, @faradayvp, @ActyusVC and more\n\nConnections, insights and new deals https://t.co/bI2ikIu",
+      "user": "VDS_event",
+      "user_name": "VDS",
+      "date": "Thu Oct 23 10:27:00 +0000 2025",
+      "like_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 99,
+      "engagement": 4,
+      "url": "https://x.com/VDS_event/status/1981306356222009398"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.215,
+        "subjectivity": 0.61,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "fund",
+          "investment",
+          "seed",
+          "funding",
+          "round"
+        ]
+      },
+      "text": "📢 We’re excited to announce our investment in Wodan AI, a company building critical infrastructure to make AI operations truly secure. \n\nLearn more about the €2M pre-seed funding round: https://t.co/X94yA7Makq https://t.co/OYBEGwpzy9",
+      "user": "AdaraVentures",
+      "user_name": "Adara Ventures",
+      "date": "Wed Dec 17 13:29:39 +0000 2025",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 103,
+      "engagement": 1,
+      "url": "https://x.com/AdaraVentures/status/2001283653289009492"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.267,
+        "subjectivity": 0.256,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "portfolio"
+        ]
+      },
+      "text": "💫 Last month was packed with momentum and meaningful wins across the Adara Ventures portfolio. \n\n🔗 Read it all in this month’s edition of our #Caminos⛰️ newsletter: https://t.co/L0hsUKQAKz https://t.co/mnlg3nDjck",
+      "user": "AdaraVentures",
+      "user_name": "Adara Ventures",
+      "date": "Mon Jul 07 07:45:10 +0000 2025",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "view_count": 95,
+      "engagement": 2,
+      "url": "https://x.com/AdaraVentures/status/1942127738766127402"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.233,
+        "subjectivity": 0.46,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "cybersecurity"
+        ],
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU"
+        ],
+        "venture_capital": [
+          "startup"
+        ]
+      },
+      "text": "@BVentureBilbao We’ll share the stage with major investors and corporations like @IndraCompany, CAF, @ACCIONA, @MicrosoftES, @iberdrola, @BStartup, @PlugandPlayTC and @AdaraVentures.\n\nLet’s keep building a more autonomous, ethical, and European cybersecurity. 🇪🇺\n\n#BVenture2025 #Cybersecurity",
+      "user": "AliasRobotics",
+      "user_name": "Alias Robotics",
+      "date": "Fri Oct 17 10:01:59 +0000 2025",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 86,
+      "engagement": 1,
+      "url": "https://x.com/AliasRobotics/status/1979125731448770874"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.16,
+        "subjectivity": 0.0,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI",
+          "cybersecurity"
+        ],
+        "europe_focus": [
+          "madrid"
+        ],
+        "venture_capital": [
+          "VC",
+          "startup",
+          "seed",
+          "series A",
+          "series B"
+        ]
+      },
+      "text": "🌱 Adara Ventures | Seed, Series A, Series B\n📍 Madrid, Luxembourg\n🎯 Cybersecurity, Energy Transition, Data &amp; AI, Di...\n\n#vc #startups #cybersecurity #energytransition #seriesa",
+      "user": "projectstartups",
+      "user_name": "Pankaj Singh",
+      "date": "Sun Sep 07 04:58:55 +0000 2025",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "view_count": 76,
+      "engagement": 2,
+      "url": "https://x.com/projectstartups/status/1964553946946818538"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.2,
+        "subjectivity": 0.0,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "venture_capital": [
+          "series A"
+        ]
+      },
+      "text": "Acoru closes €10M Series A led by 33N Ventures, with participation from  @AdaraVentures  and @AthosCapital  https://t.co/HOiUtUHAxv https://t.co/v1CkTuehOM",
+      "user": "CapitalRiesgo1",
+      "user_name": "Capital-Riesgo.es",
+      "date": "Wed Oct 22 09:02:46 +0000 2025",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 55,
+      "engagement": 2,
+      "url": "https://x.com/CapitalRiesgo1/status/1980922770444992864"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.1,
+        "subjectivity": 0.4,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "seed",
+          "round"
+        ]
+      },
+      "text": ". @AdaraVentures  leads €2M+ seed round in Kimera Technologies to power  AI-driven product discovery in eCommerce  https://t.co/Vy0uA7rjuU https://t.co/IZJsJ1XvSq",
+      "user": "CapitalRiesgo1",
+      "user_name": "Capital-Riesgo.es",
+      "date": "Mon Dec 15 13:08:20 +0000 2025",
+      "like_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 63,
+      "engagement": 1,
+      "url": "https://x.com/CapitalRiesgo1/status/2000553511990530536"
+    },
+    {
+      "source": "twitter",
+      "sentiment": {
+        "polarity": 0.15,
+        "subjectivity": 0.312,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "investment",
+          "portfolio",
+          "startup"
+        ]
+      },
+      "text": "Our #InvestmentsElewit portfolio keeps growing stronger! 🚀\n\nFrom energy storage and AI to grid monitoring and infrastructure safety, our startups are shaping the future.\n\n📢 Fresh updates from @HESS_Solutions, @AdaraVentures, @AerolaserSystem, @countercraftsec &amp; @nearbycomputing https://t.co/18bN",
+      "user": "elewitventures",
+      "user_name": "Elewit",
+      "date": "Tue Jul 01 08:30:01 +0000 2025",
+      "like_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "view_count": 50,
+      "engagement": 2,
+      "url": "https://x.com/elewitventures/status/1939964697895477570"
+    }
+  ],
+  "top_linkedin_engagement": [
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.243,
+        "subjectivity": 0.598,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deeptech",
+          "technology",
+          "innovation",
+          "AI"
+        ],
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU"
+        ],
+        "venture_capital": [
+          "VC",
+          "portfolio",
+          "startup"
+        ],
+        "team_leadership": [
+          "partner"
+        ]
+      },
+      "text": "Exciting news from Adara Ventures!\n\nWe're proud to announce a pioneering partnership with NVIDIA to accelerate AI adoption in Europe. This collaboration, through NVIDIA's Inception program, marks the first of its kind between the tech giant and a European VC firm.\n\nOur portfolio startups will benefi",
+      "author": "Rocio Pillado",
+      "author_type": "Person",
+      "author_followers": "",
+      "date": "2025-05-28T14:38:09.215Z",
+      "time_since": "10mo",
+      "like_count": 416,
+      "comment_count": 31,
+      "share_count": 5,
+      "url": "https://www.linkedin.com/posts/rociopillado_exciting-news-from-adara-ventures-were-activity-7333501842867249152-LCQe"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.199,
+        "subjectivity": 0.445,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deep tech",
+          "innovation",
+          "AI"
+        ],
+        "europe_focus": [
+          "europe",
+          "EU"
+        ],
+        "venture_capital": [
+          "VC",
+          "investment",
+          "startup",
+          "early-stage"
+        ],
+        "team_leadership": [
+          "founder",
+          "team"
+        ]
+      },
+      "text": "🚀 We’re Hiring at Adara Ventures! 🚀 We're growing our team and excited to announce new opportunities to join us in finding and supporting the next generation of enterprise tech founders.\n\n💫  Open Roles:\n\n🤖 AI & Operations Associate – Help us harness the power of AI to enhance our internal operations",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-06-25T07:27:54.298Z",
+      "time_since": "9mo",
+      "like_count": 178,
+      "comment_count": 5,
+      "share_count": 14,
+      "url": "https://www.linkedin.com/posts/adaravc_were-hiring-at-adara-ventures-were-activity-7343540427494416384-TSUl"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.296,
+        "subjectivity": 0.434,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deeptech",
+          "AI"
+        ],
+        "venture_capital": [
+          "VC",
+          "fund",
+          "startup"
+        ],
+        "team_leadership": [
+          "founder",
+          "team"
+        ]
+      },
+      "text": "🔥 Big news at Adara Ventures!\n\nToday we’re excited to announce the well-deserved promotions of four team members:\n\n✨ Andrea Cabanillas – Associate\n✨ Alexei Perley – Senior Analyst\n✨ Mariam A. – Operations Analyst\n✨ Juan Sainz de Vicuña – Analyst\n\nThese promotions celebrate the talent, hustle and imp",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2026-01-15T09:30:11.549Z",
+      "time_since": "2mo",
+      "like_count": 177,
+      "comment_count": 6,
+      "share_count": 6,
+      "url": "https://www.linkedin.com/posts/adaravc_adaraventures-venturecapital-deeptech-activity-7417498326738169856-zZJX"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.667,
+        "subjectivity": 0.833,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "team_leadership": [
+          "team"
+        ]
+      },
+      "text": "Super proud of our team Adara Ventures !",
+      "author": "Nico Goulet",
+      "author_type": "Person",
+      "author_followers": "",
+      "date": "2025-03-17T14:26:42.030Z",
+      "time_since": "1yr",
+      "like_count": 117,
+      "comment_count": 23,
+      "share_count": 1,
+      "url": "https://www.linkedin.com/posts/ngoulet_super-proud-of-our-team-adara-ventures-activity-7307407034281353218-yVjk"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.16,
+        "subjectivity": 0.395,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "investment",
+          "round"
+        ],
+        "team_leadership": [
+          "team"
+        ]
+      },
+      "text": "We're excited to announce our investment in airflows, a platform that turns AI into deterministic, auditable software systems for the enterprise. Adara Ventures led the €2M round, with participation from Armilar.\n\nGen AI has made it easier than ever to prototype software, but turning those prototype",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2026-03-25T09:29:22.821Z",
+      "time_since": "5d",
+      "like_count": 111,
+      "comment_count": 12,
+      "share_count": 5,
+      "url": "https://www.linkedin.com/posts/adaravc_were-excited-to-announce-our-investment-activity-7442502885084590080-OCm-"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.255,
+        "subjectivity": 0.423,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deep tech",
+          "technology"
+        ],
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU"
+        ],
+        "venture_capital": [
+          "VC",
+          "fund",
+          "portfolio"
+        ],
+        "team_leadership": [
+          "partner",
+          "founder"
+        ]
+      },
+      "text": "🚀 We’re proud to share that Adara Ventures is the first European VC to join the NVIDIA Inception VC Alliance.\n\nThis strategic partnership deepens our founders’ access to the NVIDIA ecosystem — from cutting-edge technology and talent to global go-to-market support.\n\nWe’re already seeing meaningful be",
+      "author": "Ross Strachan",
+      "author_type": "Person",
+      "author_followers": "",
+      "date": "2025-06-10T10:03:30.868Z",
+      "time_since": "9mo",
+      "like_count": 114,
+      "comment_count": 8,
+      "share_count": 2,
+      "url": "https://www.linkedin.com/posts/strachanross_were-proud-to-share-that-adara-ventures-activity-7338143769923317761-k0aW"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.161,
+        "subjectivity": 0.516,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deeptech",
+          "technology",
+          "AI"
+        ],
+        "venture_capital": [
+          "VC",
+          "portfolio",
+          "startup"
+        ],
+        "team_leadership": [
+          "partner"
+        ]
+      },
+      "text": "🚀 Big News: We are proud to announce that Adara Ventures has officially joined the NVIDIA Inception VC Alliance. \n\n🗨️ \"Being selected by NVIDIA is a testament to 20 years of supporting visionary startups shaping the future of technology,” said Alberto Echeverri, Partner at Adara Ventures. \n\nBy joini",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-06-10T09:12:09.810Z",
+      "time_since": "9mo",
+      "like_count": 88,
+      "comment_count": 3,
+      "share_count": 6,
+      "url": "https://www.linkedin.com/posts/adaravc_ai-energy-deeptech-activity-7338130847029514241-l6yc"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.213,
+        "subjectivity": 0.445,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deeptech",
+          "AI",
+          "cybersecurity",
+          "hardware"
+        ],
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU",
+          "madrid",
+          "pan-european"
+        ],
+        "venture_capital": [
+          "VC",
+          "fund",
+          "investment",
+          "early-stage"
+        ],
+        "team_leadership": [
+          "partner"
+        ],
+        "track_record": [
+          "return",
+          "success"
+        ]
+      },
+      "text": "Adara Ventures, the Madrid-based VC firm specialising in early-stage DeepTech investments, today announced the first close of its fourth flagship fund, AV4, targeting €100 million in capital commitments 🇪🇸 🚀 \n\nThis new fund reinforces Adara’s commitment to delivering strong returns in strategic sect",
+      "author": "EU-Startups",
+      "author_type": "Company",
+      "author_followers": "143,167",
+      "date": "2025-03-17T09:12:54.365Z",
+      "time_since": "1yr",
+      "like_count": 100,
+      "comment_count": 1,
+      "share_count": 1,
+      "url": "https://www.linkedin.com/posts/eu-startups-menlo-media_adara-ventures-announces-first-close-of-100-activity-7307328065330712577-pgV1"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.18,
+        "subjectivity": 0.487,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deeptech",
+          "innovation",
+          "AI"
+        ],
+        "venture_capital": [
+          "investment",
+          "seed",
+          "round"
+        ],
+        "team_leadership": [
+          "partner",
+          "team"
+        ],
+        "reputation": [
+          "top"
+        ]
+      },
+      "text": "📢 We’re excited to announce our investment in AppFactor, a platform enabling a new generation of self-healing enterprise software.\n\nAdara Ventures co-led AppFactor’s €4m Seed round, alongside Tensor Ventures and Begin Capital, with participation from Narwhal investments.\n\n💥 Technical debt is one of ",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2026-02-04T11:28:40.654Z",
+      "time_since": "1mo",
+      "like_count": 55,
+      "comment_count": 1,
+      "share_count": 4,
+      "url": "https://www.linkedin.com/posts/adaravc_enterprisesoftware-ai-technicaldebt-activity-7424775901797576704-bj2G"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.309,
+        "subjectivity": 0.581,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "venture_capital": [
+          "fund",
+          "seed",
+          "growth",
+          "funding",
+          "round"
+        ],
+        "team_leadership": [
+          "partner",
+          "team"
+        ]
+      },
+      "text": "📢 We’re pleased to announce that Adara Ventures has led Kimera Technologies’ latest €2M+ seed funding round, deepening our partnership with the company as it enters its next phase of growth.\n\n🔍 Kimera is redefining eCommerce search with a multimodal #AI engine that combines natural language understa",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-12-15T11:09:01.845Z",
+      "time_since": "3mo",
+      "like_count": 59,
+      "comment_count": 4,
+      "share_count": 2,
+      "url": "https://www.linkedin.com/posts/adaravc_ai-activity-7406289176368730112-uBCm"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.5,
+        "subjectivity": 0.5,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "AI"
+        ],
+        "europe_focus": [
+          "spain",
+          "madrid"
+        ],
+        "venture_capital": [
+          "investment"
+        ],
+        "team_leadership": [
+          "team"
+        ]
+      },
+      "text": "We're hiring for our investment team in Madrid, Spain!\n\n👩‍💻 Investment Analyst (4-6 month rotational program), start date in Sept 24 or Jan 25. Click to learn more 👉  https://lnkd.in/dUuXhVu5\n\n🕵‍♀️ Investment Associate (full-time), start date flexible. Click to learn more 👉  https://lnkd.in/dzUzYCrw",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2024-07-09T10:07:40.763Z",
+      "time_since": "1yr",
+      "like_count": 51,
+      "comment_count": 2,
+      "share_count": 3,
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-investment-analyst-program-activity-7216382495217336321-x_7j"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.399,
+        "subjectivity": 0.664,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "innovation"
+        ],
+        "europe_focus": [
+          "europe",
+          "EU"
+        ],
+        "venture_capital": [
+          "portfolio"
+        ],
+        "team_leadership": [
+          "partner",
+          "founder"
+        ]
+      },
+      "text": "✨ As 2025 comes to a close, we wanted to take a moment to reflect on an especially meaningful year at Adara Ventures. \n\nThis year, we deepened our commitment to backing Europe’s most ambitious enterprise and deep-tech founders, expanded key partnerships to accelerate innovation across our portfolio,",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-12-19T14:52:04.833Z",
+      "time_since": "3mo",
+      "like_count": 43,
+      "comment_count": 0,
+      "share_count": 4,
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-year-in-review-2025-activity-7407794860151287808-kKft"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.263,
+        "subjectivity": 0.465,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU"
+        ],
+        "venture_capital": [
+          "VC",
+          "fund",
+          "investment",
+          "portfolio",
+          "growth"
+        ],
+        "team_leadership": [
+          "team",
+          "advisor"
+        ],
+        "track_record": [
+          "success"
+        ]
+      },
+      "text": "💫 As we wrap up the first half of 2025, we wanted to reflect on key moments from the past few months: celebrating new investments, team promotions, and impressive growth stories from our across portfolio.\n\n🚀 We announced the successful first close of our fourth flagship fund AV4 with a target of €10",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-07-21T08:30:06.863Z",
+      "time_since": "8mo",
+      "like_count": 55,
+      "comment_count": 3,
+      "share_count": 1,
+      "url": "https://www.linkedin.com/posts/adaravc_adara-ventures-summer-review-2025-activity-7352978167512416256-6IRS"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.198,
+        "subjectivity": 0.424,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "deep_tech": [
+          "deep tech",
+          "AI",
+          "cybersecurity"
+        ],
+        "venture_capital": [
+          "fund",
+          "series A",
+          "funding",
+          "round"
+        ],
+        "team_leadership": [
+          "founder",
+          "team"
+        ],
+        "reputation": [
+          "top"
+        ]
+      },
+      "text": "🎉 We’re thrilled to back Acoru once again as part of their €10M Series A led by 33N Ventures to stop AI-driven fraud before it happens.\n\nAcoru’s platform helps banks detect criminal intent early, preventing scams, money mules, and laundering before any transaction takes place. With deepfakes and voi",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2025-10-22T11:18:49.281Z",
+      "time_since": "5mo",
+      "like_count": 38,
+      "comment_count": 0,
+      "share_count": 3,
+      "url": "https://www.linkedin.com/posts/adaravc_ai-cybersecurity-activity-7386722695511539712-sJq2"
+    },
+    {
+      "source": "linkedin",
+      "sentiment": {
+        "polarity": 0.335,
+        "subjectivity": 0.387,
+        "label": "positive"
+      },
+      "brand_signals": {
+        "europe_focus": [
+          "europe",
+          "european",
+          "EU",
+          "pan-european"
+        ],
+        "venture_capital": [
+          "VC",
+          "fund"
+        ],
+        "team_leadership": [
+          "partner"
+        ]
+      },
+      "text": "🎙Our Partner Alberto Echeverri recently joined the Zero One Hundred podcast to discuss the role of VC in driving the #energy transition and our motivation for launching Adara Ventures Energy, our first Pan-European Article 9 fund focused on software that enables the energy transition. 💫\n\n📍Thank you ",
+      "author": "Adara Ventures",
+      "author_type": "Company",
+      "author_followers": "12,922",
+      "date": "2024-02-23T09:38:53.965Z",
+      "time_since": "2yr",
+      "like_count": 35,
+      "comment_count": 1,
+      "share_count": 2,
+      "url": "https://www.linkedin.com/posts/adaravc_driving-energy-transition-through-venture-activity-7166728114914496513-da-I"
+    }
+  ]
+}
