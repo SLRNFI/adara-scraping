@@ -2,10 +2,9 @@
 
 import os
 
-APIFY_TOKEN = os.environ.get(
-    "APIFY_API_TOKEN",
-    "apify_api_Y6wpc2WsS7ccwdbgBVdp9dZCOiHcC516Rg4c",
-)
+APIFY_TOKEN = os.environ.get("APIFY_API_TOKEN", "")
+if not APIFY_TOKEN:
+    raise ValueError("Set APIFY_API_TOKEN environment variable. See .env.example")
 
 TARGET = "Adara Ventures"
 
